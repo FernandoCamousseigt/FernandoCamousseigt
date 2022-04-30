@@ -1,4 +1,4 @@
-### Hola soy Fernando, Junior FullStack Developer :space_invader:
+### Hola soyFernando, Junior FullStack Developer :space_invader:
 
 Me apasiona la computación, aprender cada día algo nuevo y realizar proyectos con más personas. Es por esta razón que desde el año 2021 decidí comenzar mi reconversión laboral en esa dirección . Tomando diferentes cursos, bootcamps Python y Javascript . Actualmente vivo en Chile
 Mi formación anterior es del mundo las ciencias, he trabajado en el campo de traducción y medioambiental, lo cuál podría dar una visión diferente a proyectos, ideas o soluciones para hacerlas realidad mediante la programación.
