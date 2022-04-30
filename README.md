@@ -1,6 +1,6 @@
 ### Hola soy Fernando, Junior FullStack Developer :space_invader:
 
-Me apasiona la computación, aprender cada día algo nuevo y realizar proyectos con más personas. Es por esta razón que desde el año 2020 decidí comenzar mi reconversión laboral en esa dirección . Tomando diferentes cursos y bootcamps Python y Javascript . Actualmente vivo en Chile
+Me apasiona la computación, aprender cada día algo nuevo y realizar proyectos con más personas. Es por esta razón que desde el año 2021 decidí comenzar mi reconversión laboral en esa dirección . Tomando diferentes cursos, bootcamps Python y Javascript . Actualmente vivo en Chile
 Mi formación anterior es del mundo las ciencias, he trabajado en el campo de traducción y medioambiental, lo cuál podría dar una visión diferente a proyectos, ideas o soluciones para hacerlas realidad mediante la programación.
 Respecto a la programación he realizado diferentes proyectos personales de frontend, responsives y de backend que puedes ver en este github.
 Me puedes contactar mediante https://www.linkedin.com/in/fernando-camousseigt
